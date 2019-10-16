@@ -13,4 +13,4 @@ RSA public key encryption tool in Python that allows users to understand the pro
 
 ### Screenshots
 
-<img src="screenshots/rsa_integer_encryption.png" width="200"> 
+<img src="screenshots/rsa_integer_encryption.png" width="500"> 
